@@ -15,4 +15,11 @@ Pull requests must get 2 approvals from other coders on the simulation team. Cri
 
 It's important that everyone involved in the pull request process carefully looks at code in order to assure maximum quality.
 
+<<<<<<< HEAD
 If you have any questions, talk to Zach Noel.
+=======
+**POSSIBLY USEFUL INFORMATION**
+1) Git documentation https://git-scm.com/docs <-- If you have never used GitHub or Git before, it is imperitive that you understand how it works so that your code can properly live on the repo. You can talk to Zach Noel if you are confused on the git process.
+2) You will need to have Git downloaded on your computer. Link is here: https://git-scm.com/download/win. 
+3) [Install Documentation is located here.](https://github.com/KeweenawRocketRange/Alka-Simulation-2019/wiki/Git-Installation-Documentation-for-Windows-Machines) If you do not have Git installed, carefully follow the installation directions to add Git to your computer.
+>>>>>>> 90f6e6b7e6d5db37452de43adbd9b924120075ec
